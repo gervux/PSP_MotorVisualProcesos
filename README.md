@@ -1,2 +1,2 @@
-# PSP_MotorVisualProcesos
+# Procesia
 Proyecto RA1 - PSP
